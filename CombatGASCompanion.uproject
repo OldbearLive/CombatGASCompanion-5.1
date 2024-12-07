@@ -26,7 +26,7 @@
 		},
 		{
 			"Name": "GASCompanion",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d83c6f34c3fb4b7092dde195c37c7413"
 		},
 		{
@@ -42,27 +42,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Jump",
-			"Enabled": true
-		},
-		{
 			"Name": "AnimationWarping",
-			"Enabled": true
-		},
-		{
-			"Name": "Sword_Content",
-			"Enabled": true
-		},
-		{
-			"Name": "Dash_Sprint",
-			"Enabled": true
-		},
-		{
-			"Name": "LockOn",
-			"Enabled": true
-		},
-		{
-			"Name": "GlaiveBoss_Plugin",
 			"Enabled": true
 		},
 		{
